@@ -8,8 +8,7 @@
   />
 </p>
 
-- 🔭 I’m currently working on **website development** <br />- 🌱 I’m currently
-learning **server side programming** <br />- 👯 I’m looking to collaborate on
+- 🔭 I’m currently working on **website development** <br />- 👯 I’m looking to collaborate on
 **Any software development** <br />- 💬 Ask me about **MERN** <br />- 📫
 How to reach me **bulalalisa@gmail.com**
 
