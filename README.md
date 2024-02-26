@@ -1,10 +1,10 @@
 <h2>Hello </h2>
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=👋+Guys,+I'am+Lalisa)](https://git.io/typing-svg)
-- 👀 I’m Software Engineering Student..
-- 🌱 I’m currently learning Software at Jimma Universty
+-  I’m Software Engineering Student..
+-  I’m currently learning Software at Jimma Universty
 - I'm currently engaged in software development endeavors encompassing web and mobile application development.
-- 📫  you can reach me by email: bulalalisa@gmail.com
+-   you can reach me by email: bulalalisa@gmail.com
 ## GitHub Stats
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=lalisabl&theme=dark&hide_border=true&background=420C0C20)](https://git.io/streak-stats)[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lalisabl&layout=compact&theme=aura&langs_count=20&hide_border=true)](https://github.com/lalisabl)
