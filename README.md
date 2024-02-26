@@ -1,8 +1,7 @@
 <h2>Hello </h2>
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=👋+Guys,+I'am+Lalisa)](https://git.io/typing-svg)
--  I’m Software Engineering Student..
--  I’m currently learning Software at Jimma Universty
+-  I’m a Software Engineering Student at Jimma Universty
 - I'm currently engaged in software development endeavors encompassing web and mobile application development.
 -   you can reach me by email: bulalalisa@gmail.com
 ## GitHub Stats
