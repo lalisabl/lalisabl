@@ -7,7 +7,6 @@
 ## GitHub Stats
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=lalisabl&theme=dark&hide_border=true&background=420C0C20)](https://git.io/streak-stats)[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lalisabl&layout=compact&theme=aura&langs_count=20&hide_border=true)](https://github.com/lalisabl)
-<!-- You can add more sections and content below this line -->
 
 <h2>Languages and tools</h2>
 <p dir="auto">
