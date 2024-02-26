@@ -1,9 +1,9 @@
-<h1 align="center">Hi 👋, I'm Lalisa</h1>
+<h1 align="center">Hi 👋 I'm Lalisa</h1>
 <h3 align="center">Web developer and software Engineering Student</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=lalisabl&label=Profile%20views&color=0e75b6&style=flat" alt="lalisabl" /> </p>
 
-- 🌱 I’m currently learning **flutter, typescript**
+- 🌱 I’m currently learning **software engineering major**
 
 - 💬 Ask me about **react, express node.js**
 
