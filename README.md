@@ -26,6 +26,8 @@
 [![Linux](https://img.shields.io/badge/Linux-%23FCC624.svg?style=flat-square&logo=linux&logoColor=black)](https://www.linux.org/)
 [![HTML5](https://img.shields.io/badge/HTML5-%23E34F26.svg?style=flat-square&logo=html5&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/HTML)
 [![CSS3](https://img.shields.io/badge/CSS3-%231572B6.svg?style=flat-square&logo=css3&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/CSS)
+[![Android](https://img.shields.io/badge/android-%233DDC84.svg?style=flat-square&logo=android&logoColor=white)](https://www.android.com/)
+[![Flutter](https://img.shields.io/badge/flutter-%2302569B.svg?style=flat-square&logo=flutter&logoColor=white)](https://flutter.dev/)
 [![MySQL](https://img.shields.io/badge/MySQL-%234479A1.svg?style=flat-square&logo=mysql&logoColor=white)](https://www.mysql.com/)
 [![Docker](https://img.shields.io/badge/Docker-%232496ED.svg?style=flat-square&logo=docker&logoColor=white)](https://www.docker.com/)
 [![Heroku](https://img.shields.io/badge/Heroku-%23430098.svg?style=flat-square&logo=heroku&logoColor=white)](https://www.heroku.com/)
