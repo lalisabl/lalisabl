@@ -5,7 +5,9 @@
 - I'm currently engaged in software development endeavors encompassing web and mobile application development.
 -   you can reach me by email: bulalalisa@gmail.com
 ## GitHub Stats
-[![GitHub Streak](https://streak-stats.demolab.com?user=lalisabl&theme=dark&hide_border=true&background=420C0C20)](https://git.io/streak-stats)[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lalisabl&layout=compact&theme=aura&langs_count=20&hide_border=true)](https://github.com/lalisabl)
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=lalisabl&theme=dark&hide_border=true&background=420C0C20)](https://git.io/streak-stats)[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lalisabl&layout=compact&theme=aura&langs_count=15&hide_border=true)](https://github.com/lalisabl)
+
 
 <h2>Languages and tools</h2>
 <p dir="auto">
