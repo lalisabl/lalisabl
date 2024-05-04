@@ -1,4 +1,3 @@
-<h2>Hello </h2>
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=👋+Guys,+I'am+Lalisa)](https://git.io/typing-svg)
 -  I’m a Software Engineering Student at Jimma Universty
