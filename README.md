@@ -1,42 +1,34 @@
+[![Lalisa GitHub Header](https://raw.githubusercontent.com/lalisabl/lalisabl/main/img/github_header_lalisa_1500x500.png 'Header')](https://lalisabl.github.io/)
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=👋+Guys,+I'am+Lalisa)](https://git.io/typing-svg)
--  I’m a Software Engineering Student at Jimma Universty
-- I'm currently engaged in software development endeavors encompassing web and mobile application development.
--   you can reach me by email: bulalalisa@gmail.com
-## GitHub Stats
+# Hej!
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=lalisabl&theme=dark&hide_border=true&background=420C0C20)](https://git.io/streak-stats)[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lalisabl&layout=compact&theme=aura&langs_count=15&hide_border=true)](https://github.com/lalisabl)
+Hi, I am Lalisa - a Software Engineering Student at Jimma University. I'm currently engaged in software development endeavors encompassing web and mobile application development. Programming gives me the unique opportunity to create digital products that are not only beautiful in the eyes of end-users but also provide all the functionality for a higher-level system.
 
+You can reach me by email at [bulalalisa@gmail.com](mailto:bulalalisa@gmail.com).
 
-<h2>Languages and tools</h2>
-<p dir="auto">
+## ⚒️ Technologies & Tools
 
-  
-[![React](https://img.shields.io/badge/react-%2320232a.svg?style=flat-square&logo=react&logoColor=%2361DAFB)](https://reactjs.org/)
-[![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat-square&logo=javascript&logoColor=%23F7DF1E)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
-[![Tailwind CSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=flat-square&logo=tailwind-css&logoColor=white)](https://tailwindcss.com/)
-[![Node.js](https://img.shields.io/badge/Node.js-%23339933.svg?style=flat-square&logo=node.js&logoColor=white)](https://nodejs.org/)
-[![Express.js](https://img.shields.io/badge/Express.js-%23000000.svg?style=flat-square&logo=express&logoColor=white)](https://expressjs.com/)
-[![MongoDB](https://img.shields.io/badge/MongoDB-%2347A248.svg?style=flat-square&logo=mongodb&logoColor=white)](https://www.mongodb.com/)
-[![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=flat-square&logo=c%2B%2B&logoColor=white)](https://en.cppreference.com/)
-[![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=flat-square&logo=java&logoColor=white)](https://www.java.com/)
-[![Git](https://img.shields.io/badge/git-%23F05032.svg?style=flat-square&logo=git&logoColor=white)](https://git-scm.com/)
-[![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=flat-square&logo=github&logoColor=white)](https://github.com/)
-[![Visual Studio Code](https://img.shields.io/badge/VS%20Code-%23007ACC.svg?style=flat-square&logo=visual-studio-code&logoColor=white)](https://code.visualstudio.com/)
-[![Linux](https://img.shields.io/badge/Linux-%23FCC624.svg?style=flat-square&logo=linux&logoColor=black)](https://www.linux.org/)
-[![HTML5](https://img.shields.io/badge/HTML5-%23E34F26.svg?style=flat-square&logo=html5&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/HTML)
-[![CSS3](https://img.shields.io/badge/CSS3-%231572B6.svg?style=flat-square&logo=css3&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/CSS)
-[![Android](https://img.shields.io/badge/android-%233DDC84.svg?style=flat-square&logo=android&logoColor=white)](https://www.android.com/)
-[![Flutter](https://img.shields.io/badge/flutter-%2302569B.svg?style=flat-square&logo=flutter&logoColor=white)](https://flutter.dev/)
-[![MySQL](https://img.shields.io/badge/MySQL-%234479A1.svg?style=flat-square&logo=mysql&logoColor=white)](https://www.mysql.com/)
-[![Docker](https://img.shields.io/badge/Docker-%232496ED.svg?style=flat-square&logo=docker&logoColor=white)](https://www.docker.com/)
-[![Heroku](https://img.shields.io/badge/Heroku-%23430098.svg?style=flat-square&logo=heroku&logoColor=white)](https://www.heroku.com/)
-[![Artificial Intelligence](https://img.shields.io/badge/Artificial%20Intelligence-%23336699.svg?style=flat-square&logo=ai&logoColor=white)](https://en.wikipedia.org/wiki/Artificial_intelligence)
-[![Python](https://img.shields.io/badge/python-%2314354C.svg?style=flat-square&logo=python&logoColor=white)](https://www.python.org/)
-[![Django](https://img.shields.io/badge/Django-%23092E20.svg?style=flat-square&logo=django&logoColor=white)](https://www.djangoproject.com/)
-[![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=flat-square&logo=php&logoColor=white)](https://www.php.net/)
-</p>
-<!---
-lalisabl/lalisabl is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Over time, I've worked with a variety of technologies and tools, always looking forward to learning something new to find the best possible solution for a given problem.
+
+![](https://img.shields.io/badge/Language-JavaScript-informational?style=flat&logo=javascript&logoColor=white&color=D77A65&labelColor=465573)
+![](https://img.shields.io/badge/Language-HTML-informational?style=flat&logo=html5&logoColor=white&color=D77A65&labelColor=465573)
+![](https://img.shields.io/badge/Language-CSS-informational?style=flat&logo=css3&logoColor=white&color=D77A65&labelColor=465573)
+![](https://img.shields.io/badge/Language-C++-informational?style=flat&logo=c%2B%2B&logoColor=white&color=D77A65&labelColor=465573)
+![](https://img.shields.io/badge/Language-Java-informational?style=flat&logo=java&logoColor=white&color=D77A65&labelColor=465573)
+![](https://img.shields.io/badge/Framework-React.js-informational?style=flat&logo=react&logoColor=white&color=D77A65&labelColor=465573)
+![](https://img.shields.io/badge/Framework-Node.js-informational?style=flat&logo=node-dot-js&logoColor=white&color=D77A65&labelColor=465573)
+![](https://img.shields.io/badge/Framework-Express.js-informational?style=flat&logo=express&logoColor=white&color=D77A65&labelColor=465573)
+![](https://img.shields.io/badge/Database-MongoDB-informational?style=flat&logo=mongodb&logoColor=white&color=D77A65&labelColor=465573)
+![](https://img.shields.io/badge/Database-MySQL-informational?style=flat&logo=mysql&logoColor=white&color=D77A65&labelColor=465573)
+![](https://img.shields.io/badge/Tool-Git-informational?style=flat&logo=git&logoColor=white&color=D77A65&labelColor=465573)
+![](https://img.shields.io/badge/Tool-GitHub-informational?style=flat&logo=github&logoColor=white&color=D77A65&labelColor=465573)
+![](https://img.shields.io/badge/Tool-Visual%20Studio%20Code-informational?style=flat&logo=visual-studio-code&logoColor=white&color=D77A65&labelColor=465573)
+![](https://img.shields.io/badge/Tool-Docker-informational?style=flat&logo=docker&logoColor=white&color=D77A65&labelColor=465573)
+![](https://img.shields.io/badge/Tool-Heroku-informational?style=flat&logo=heroku&logoColor=white&color=D77A65&labelColor=465573)
+
+## 📈 GitHub Stats
+
+<div style="display:flex">
+    <a href="https://github.com/lalisabl/github-readme-stats" target="_blank"><img src="https://github-readme-stats.vercel.app/api?username=lalisabl&show_icons=true&theme=nord&count_private=true&hide=contribs,prs,issues&title_color=465573&text_color=465573&icon_color=D77A65&bg_color=FCFBFA&hide_border=true" alt="Lalisa's GitHub stats" /></a>
+    <a href="https://github.com/lalisabl/github-readme-stats" target="_blank"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lalisabl&show_icons=true&theme=nord&count_private=true&hide=contribs,prs&title_color=465573&text_color=465573&icon_color=D77A65&bg_color=FCFBFA&hide_border=true" alt="Lalisa's GitHub stats" /></a>
+</div>
