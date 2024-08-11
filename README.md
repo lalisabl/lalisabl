@@ -27,8 +27,4 @@ Over time, I've worked with a variety of technologies and tools, always looking 
 ![](https://img.shields.io/badge/Tool-Heroku-informational?style=flat&logo=heroku&logoColor=white&color=D77A65&labelColor=465573)
 
 ## 📈 GitHub Stats
-
-<div style="display:flex">
-    <a href="https://github.com/lalisabl/github-readme-stats" target="_blank"><img src="https://github-readme-stats.vercel.app/api?username=lalisabl&show_icons=true&theme=nord&count_private=true&hide=contribs,prs,issues&title_color=465573&text_color=465573&icon_color=D77A65&bg_color=FCFBFA&hide_border=true" alt="Lalisa's GitHub stats" /></a>
-    <a href="https://github.com/lalisabl/github-readme-stats" target="_blank"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lalisabl&show_icons=true&theme=nord&count_private=true&hide=contribs,prs&title_color=465573&text_color=465573&icon_color=D77A65&bg_color=FCFBFA&hide_border=true" alt="Lalisa's GitHub stats" /></a>
-</div>
+[![GitHub Streak](https://streak-stats.demolab.com?user=lalisabl&theme=dark&hide_border=true&background=420C0C20)](https://git.io/streak-stats)[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lalisabl&layout=compact&theme=aura&langs_count=20&hide_border=true)](https://github.com/lalisabl)
