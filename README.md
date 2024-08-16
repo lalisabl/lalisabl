@@ -1,4 +1,4 @@
-[![Lalisa GitHub Header](https://github.com/lalisabl/lalisabl/blob/main/img/mepro.png 'Header')](https://hayubk.5gada.com/)
+[![Lalisa GitHub Header](https://github.com/lalisabl/lalisabl/blob/main/img/github-profile.png 'Header')](https://hayubk.5gada.com/)
 
 # Jirtuu!
 
