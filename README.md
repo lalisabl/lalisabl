@@ -1,8 +1,5 @@
-[![Lalisa GitHub Header](https://github.com/lalisabl/lalisabl/blob/main/img/header.png 'Header')](https://hayubk.5gada.com/)
-
-# Hi!
-
-I am Lalisa - a Software Engineering Student at Jimma University. I'm currently engaged in software development endeavors encompassing web and mobile application development. Programming gives me the unique opportunity to create digital products that are not only beautiful in the eyes of end-users but also provide all the functionality for a higher-level system.
+# 💫 About Me:
+🔭 I’m an experienced Node, React, and next.js  developer<br>🤝 I’m eager to collaborate on innovative projects and bring ideas to life<br>🌱 I’m always learning and exploring new technologies<br>💬 Let's Build Together
 
 You can reach me by email at [bulalalisa@gmail.com](mailto:bulalalisa@gmail.com).
 
