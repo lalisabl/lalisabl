@@ -1,8 +1,8 @@
 [![Lalisa GitHub Header](https://github.com/lalisabl/lalisabl/blob/main/img/header.png 'Header')](https://hayubk.5gada.com/)
 
-# Hey!
+# Hi!
 
-Hi, I am Lalisa - a Software Engineering Student at Jimma University. I'm currently engaged in software development endeavors encompassing web and mobile application development. Programming gives me the unique opportunity to create digital products that are not only beautiful in the eyes of end-users but also provide all the functionality for a higher-level system.
+I am Lalisa - a Software Engineering Student at Jimma University. I'm currently engaged in software development endeavors encompassing web and mobile application development. Programming gives me the unique opportunity to create digital products that are not only beautiful in the eyes of end-users but also provide all the functionality for a higher-level system.
 
 You can reach me by email at [bulalalisa@gmail.com](mailto:bulalalisa@gmail.com).
 
