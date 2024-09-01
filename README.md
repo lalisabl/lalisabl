@@ -1,7 +1,7 @@
 # 💫 About Me:
 🔭 I’m experienced full-stack web-developer<br>🤝 I’m eager to collaborate on innovative projects and bring ideas to life<br>🌱 I’m always learning and exploring new technologies<br>💬 Let's Build Together
 
-You can reach me by email at [bulalalisa@gmail.com](mailto:bulalalisa@gmail.com).
+You can reach me by email at: [bulalalisa@gmail.com](mailto:bulalalisa@gmail.com).
 
 ## ⚒️ Technologies & Tools
 
