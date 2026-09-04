@@ -6,8 +6,6 @@
 &nbsp;&nbsp;&nbsp;&nbsp;• Multilingual language models<br>
 💬 Let's Build Together
 
-💼 Check Out My Fiverr Gigs:<br>
-🌐 https://www.fiverr.com/s/wkqYZe8<br>
 
 You can reach me by email at: [bulalalisa@gmail.com](mailto:bulalalisa@gmail.com).
 
